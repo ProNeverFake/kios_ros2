@@ -1,0 +1,24 @@
+# secrets.json
+secrets.json
+# llama2 code with secrets
+llama2_eval.py
+# query data
+query_history
+# python files
+*.pyc
+__pycache__/
+# cpp build files
+*.o
+*.out
+# folders
+build/
+install/ 
+log/
+logs/
+# .vscode
+.vscode/
+
+# graphs
+.dot
+.svg
+
