@@ -2,9 +2,7 @@
   <img src="/LOGO.jpg" alt="LOGO" width="30%">
 </div>
 
-# KIOS_ROS --- Knowledge-based Intelligent Operation System
-
-This is the package for skill-based robot behavior tree execution based on ROS2 (based on distro Foxy).
+# KIOS-ROS2
 
 ## Intro
 
@@ -298,9 +296,13 @@ MIT License
 
 ## Sources
 [mios_py_interface](https://gitlab.lrz.de/bblab/mios_py_interface)
+
 [mios](https://gitlab.lrz.de/ki_fabrik_integration/MIRMI-public/mios)
+
 [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)
+
 [websocketpp](https://github.com/zaphoyd/websocketpp)
+
 [ros2](https://docs.ros.org/en/foxy/index.html)
 
 
